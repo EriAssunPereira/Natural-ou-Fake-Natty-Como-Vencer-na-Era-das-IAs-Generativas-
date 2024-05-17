@@ -1,4 +1,7 @@
 # Natural-ou-Fake-Natty-Como-Vencer-na-Era-das-IAs-Generativas-
+
+https://github.com/digitalinnovationone/lab-natty-or-not
+
 As IAs Generativas são uma subcategoria de algoritmos de aprendizado de máquina que utilizam duas redes neurais em conjunto para produzir novos e sintéticos dados que podem passar por dados reais. Elas alcançaram resultados notáveis na geração de imagens, música, voz e texto.
 
 Aqui está um exemplo de como você pode explorar IAs Generativas em seu projeto:
